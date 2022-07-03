@@ -1,14 +1,6 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 Project: Bomberman \
-\
-A strategic maze-based game that users press the keys to move and attack the AI enemy.\
-\
-To run the project, open the file main.py and press command+B \
-\
-No libraries or shortcut commands used. }
+In this 2D tile-based video game, players can press the keys to move their characters horizontally or vertically around the maze and press the space key to drop a bomb at their feet to attack the enemy. 
+
+To run the project, open the file main.py and press command+B.
+
+Demo: https://www.youtube.com/watch?v=z4pXtl5USCc
